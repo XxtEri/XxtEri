@@ -8,7 +8,6 @@ I am
 
 💪 trainee developer at TSU
 
----
 
 ### 🛠️ Tech stack
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
@@ -51,3 +50,9 @@ I am
 <p>
   and you can send me to zziikk2003@gmail.com 🙂
 </p>
+
+---
+
+|  |  |
+| :------------:|:-----------: |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxtEri)](https://github.com/XxtEri/github-readme-stats)| <img alt="" width="500" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg"></img>|
