@@ -48,7 +48,7 @@ I am
 [![VK](https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge)](https://m.vk.com/regelina_ger)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge)](https://t.me/regelina)
 <p>
-  and you can send me to zziikk2003@gmail.com 🙂
+  and you can send me to regelina76@gmail.com 🙂
 </p>
 
 ---
