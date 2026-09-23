@@ -1,58 +1,64 @@
-### Hi there 👋
+# Hi there, I'm an iOS Developer 👋
 
-I am 
+🍏 **iOS Developer** based in Moscow
+👩🏻‍💻 Building native iOS applications with **Swift**
+🎓 Certified Software Engineer
+📱 Working with **UIKit & SwiftUI**
+✨ Passionate about clean architecture, intuitive UI and great user experience
 
-🍏 iOS developer from Russia, Tomsk
+### 🛠 Tech Stack
 
-👩🏻‍🎓 3rd year student of the Faculty of Software Engineering
+#### iOS Development
 
-💪 trainee developer at TSU
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge\&logo=apple\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge\&logo=swift\&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge\&logo=xcode\&logoColor=white)
 
+#### Data & Backend Services
 
-### 🛠️ Tech stack
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge\&logo=realm\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=icloud\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
-![UIKit](https://img.shields.io/badge/-UIKit-E7E7E7.svg?logo=&style=for-the-badge)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-1FCBFF.svg?logo=&style=for-the-badge)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+#### Tools
 
-![Xcode](https://img.shields.io/badge/-Xcode-0048ba.svg?logo=&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge\&logo=confluence\&logoColor=white)
 
 ---
 
-### Socials and email
-[![VK](https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge)](https://m.vk.com/regelina_ger)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge)](https://t.me/regelina)
-<p>
-  and you can send me to regelina76@gmail.com 🙂
+### 💻 What I work with
+
+* Swift
+* UIKit / SwiftUI
+* REST API
+* URLSession
+* JSON / Codable
+* Auto Layout
+* MVC / MVP / MVVM
+* Realm / UserDefaults
+* Firebase
+* Git
+* SPM / CocoaPods
+
+---
+
+### 📫 Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/elenaeiOS)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:elena.e.gerasimchuk@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=XxtEri&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxtEri&layout=compact&hide_border=true" />
 </p>
-
----
-
-|  |  |
-| :------------:|:-----------: |
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxtEri)](https://github.com/XxtEri/github-readme-stats)| <img alt="" width="500" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg"></img>|
